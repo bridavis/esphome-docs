@@ -6,7 +6,7 @@ cd74hc4067 Analog Multiplexer
     :image: cd74hc4067.jpg
 
 
-The ``cd74hc4067`` Analog Multiplexer component allows you to attach up to 16 analog input sensors to a single ADC pin.
+The ``cd74hc4067`` Analog Multiplexer component allows you to attach up to 16 analog nput sensors to a single ADC pin.
 The component is used to activate the right multiplexer pin for each of the defined cd74hc4067 sensors.
 
 For further information about the cd74hc4067 chip see the `spec sheet  <https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf>`__
